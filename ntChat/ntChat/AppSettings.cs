@@ -17,7 +17,7 @@ namespace ntChat
             saveFile = DependencyService.Get<ISaveFile>();
         }
 
-        ////public TestClass TestClass { get; set; }
+        //////public TestClass TestClass { get; set; }
 
         public void Save()
         {
