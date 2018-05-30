@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ntChat.Services.Network;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -17,7 +18,25 @@ namespace ntChat
             saveFile = DependencyService.Get<ISaveFile>();
         }
 
-        //////public TestClass TestClass { get; set; }
+        public string DeviceID { get; set; }
+
+        public string DeviceName { get; set; }
+
+        public int DefaultPort { get; set; }
+
+        public int BufferSize { get; set; }
+
+        public int MaxMsgSize { get; set; }
+
+        public int SendTimeout { get; set; }
+
+        public int ReceiveTimeout { get; set; }
+
+        public int Backlog { get; set; }
+
+        [XmlIgnore]
+        private NetworkManager _nm;
+        public NetworkManager NetworkManager { get; set; }
 
         public void Save()
         {

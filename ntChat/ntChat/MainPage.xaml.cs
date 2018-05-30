@@ -12,8 +12,6 @@ namespace ntChat
 		public MainPage()
 		{
 			InitializeComponent();
-
-            
 		}
 	}
 }

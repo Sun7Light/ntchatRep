@@ -1,0 +1,9 @@
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\bin\Debug\netstandard2.0\ntChat.deps.json
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\bin\Debug\netstandard2.0\ntChat.dll
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.csproj.CoreCompileInputs.cache
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.AssemblyInfoInputs.cache
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.AssemblyInfo.cs
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\bin\Debug\netstandard2.0\ntChat.pdb
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.dll
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.pdb
+D:\Data\Projects\Ntchat\ntchatRep\ntChat\ntChat\obj\Debug\netstandard2.0\ntChat.csprojAssemblyReference.cache

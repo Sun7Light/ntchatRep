@@ -10,7 +10,9 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Xamarin.Forms;
 
+[assembly: Dependency(typeof(ntChat.Droid.SaveFile))]
 namespace ntChat.Droid
 {
     public class SaveFile: ISaveFile

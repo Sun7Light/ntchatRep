@@ -1,6 +1,8 @@
 ntChat
 System.Runtime
+netstandard
 FormsViewGroup
+Newtonsoft.Json
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
