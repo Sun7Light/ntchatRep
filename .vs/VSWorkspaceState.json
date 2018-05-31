@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ntChat",
+    "\\ntChat\\ntChat",
+    "\\ntChat\\ntChat\\Services",
+    "\\ntChat\\ntChat\\Services\\Commands",
+    "\\ntChat\\ntChat\\Services\\Network",
+    "\\ntChat\\ntChat\\Views"
+  ],
+  "SelectedNode": "\\ntChat\\ntChat\\MainPage.xaml",
+  "PreviewInSolutionExplorer": false
+}
