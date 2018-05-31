@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
       "projectName": "ntChat.Android",
-      "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
+      "projectPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\obj\\",
+      "outputPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -724,8 +724,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
-              "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
+            "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
+              "projectPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
             }
           }
         }

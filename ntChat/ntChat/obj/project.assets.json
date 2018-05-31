@@ -378,11 +378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj",
       "projectName": "ntChat",
-      "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj",
+      "projectPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\obj\\",
+      "outputPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

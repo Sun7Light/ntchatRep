@@ -7141,11 +7141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
       "projectName": "ntChat.UWP",
-      "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
+      "projectPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\obj\\",
+      "outputPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7165,8 +7165,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
-              "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
+            "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
+              "projectPath": "D:\\Data\\Projects\\Ntchat\\3\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
             }
           }
         }
