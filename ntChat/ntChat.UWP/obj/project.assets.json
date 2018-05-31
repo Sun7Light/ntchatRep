@@ -7135,24 +7135,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Михаил\\.nuget\\packages\\": {},
+    "C:\\Users\\Kirill\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
       "projectName": "ntChat.UWP",
-      "projectPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
-      "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.UWP\\obj\\",
+      "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\ntChat.UWP.csproj",
+      "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
+      "outputPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7165,8 +7165,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
-              "projectPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
+            "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
+              "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
             }
           }
         }
