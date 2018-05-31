@@ -698,20 +698,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Михаил\\.nuget\\packages\\": {}
+    "C:\\Users\\Kirill\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
       "projectName": "ntChat.Android",
-      "projectPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
-      "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat.Android\\obj\\",
+      "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\ntChat.Android.csproj",
+      "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
+      "outputPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -724,8 +724,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
-              "projectPath": "E:\\Сервер\\ntChat\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
+            "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj": {
+              "projectPath": "D:\\Data\\Projects\\Ntchat\\2\\ntchatRep\\ntChat\\ntChat\\ntChat.csproj"
             }
           }
         }

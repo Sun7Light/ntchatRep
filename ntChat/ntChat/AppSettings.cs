@@ -17,7 +17,7 @@ namespace ntChat
         {
             saveFile = DependencyService.Get<ISaveFile>();
         }
-
+        //
         public string DeviceID { get; set; }
 
         public string DeviceName { get; set; }
